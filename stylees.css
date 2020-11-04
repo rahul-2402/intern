@@ -256,6 +256,23 @@ background-color: #f44336 ;
 
 
 
+.gfg { 
+        margin: 3%; 
+        position: relative; 
+        text-align: center;
+        
+    } 
 
+    .first-txt { 
+        position: absolute; 
+        top: 17px; 
+        left: 50px; 
+        color :white !important;
+        text-align:center;
+        padding-left:80px;
+        padding-top:80px;
+        padding-right: 80px;
+        font-size: 2.5rem;
+    } 
 
 
